@@ -29,6 +29,8 @@ public class LoginTest extends BaseClass
 		
 		System.out.println("testing pull request");
 		
+		System.out.println("testing with feature1 branch");
+		
 		Assert.assertTrue(home.sidePannelIsPresentwithLogOutOption());
 		
 	}

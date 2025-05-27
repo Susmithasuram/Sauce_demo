@@ -27,6 +27,8 @@ public class LoginTest extends BaseClass
 		
 		Assert.assertTrue(home.getProductLabel().contains("Produc"));
 		
+		System.out.println("testing pull request");
+		
 		Assert.assertTrue(home.sidePannelIsPresentwithLogOutOption());
 		
 	}

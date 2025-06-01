@@ -29,6 +29,7 @@ public class BuyProductTest extends BaseClass
 		Assert.assertTrue(home.getProductLabel().contains("Produc"));
 		
 		//Assert.assertTrue(home.sidePannelIsPresentwithLogOutOption());
+// This is the sample comment code added by Pradeep Suram 01 06 2025
 		
 	}
 	

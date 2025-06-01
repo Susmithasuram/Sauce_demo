@@ -32,6 +32,8 @@ public class LoginTest extends BaseClass
 		System.out.println("testing with feature1 branch");
 		
 		Assert.assertTrue(home.sidePannelIsPresentwithLogOutOption());
+
+// this is the sample comment code by pradeep Suram on 01-06-2025
 		
 	}
 

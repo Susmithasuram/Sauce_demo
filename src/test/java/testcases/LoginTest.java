@@ -33,6 +33,8 @@ public class LoginTest extends BaseClass
 		
 		Assert.assertTrue(home.sidePannelIsPresentwithLogOutOption());
 
+                //Testing  main branch functionality
+
 // this is the sample comment code by pradeep Suram on 01-06-2025
 		
 	}
